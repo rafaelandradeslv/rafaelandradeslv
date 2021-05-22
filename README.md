@@ -1,5 +1,13 @@
-### Hi there 👋
+### Olá ! 👋
 
+Seja muito bem vindo ao meu github de estudos e futuros projetos.
+
+Estudo Ciência da Computação pela Universidade Estácio de Sá - RJ, e sou apixonado por tecnologia.
+
+Passei por um bom tempo estudando diversas tecnologias e não tinha focado em nenhuma ainda, tinha interesse em experimentar todas as linguagens e suas sintaxes até que encontrasse uma ao qual me adaptasse. Meu pensamento não era um dia trabalhar como programador, era apenas divertido poder criar aplicativos, sites, editar imagens, pois, sempre fico encantado com máquinas, automação, sistemas e podemos fazer isso com linhas de código.
+Tenho muita experiência e conhecimento na área elétrica, pneumática, infraestrutura, projetos, mecânica, CLP, entre outras funções relacionadas ao setor industrial, afinal, foram quase 9 anos de dedicação e um aprendizado constante. Até que cansei... não da profissão, mas pretendia desenvolver uma habilidade diferente. Foi então que percebi que levava jeito com programação, sempre estudando sozinho e com alguma ajuda ou outra do youtube, mas os códigos funcionavam. Não cheguei a desenvolver nenhum projeto grande, apenas coisas simples por diversão, mas agora decidi que vou levar isso muito a série sem deixar a diversão de lado, quero ser profissional e ser reconhecido como um.
+
+A META É IMPACTAR O MUNDO !!!
 <!--
 **rafaelandradeslv/rafaelandradeslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
