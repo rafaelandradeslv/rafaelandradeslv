@@ -4,6 +4,9 @@ Seja muito bem vindo ao meu github de estudos e futuros projetos.
 
 Estudo Ciência da Computação pela Universidade Estácio de Sá - RJ, e sou apixonado por tecnologia.
 
+Também sou aluno da Digital House, cursando Ciência de Dados, procuro aumentar ainda mais os conhecimentos na área de Machine Learning e Estatística.
+
+Não poderia deixar de mencionar que programar é muito divertido e não me canso de fazer isso todos os dias, o que antes era apenas um hobby está se tornando uma profissão ao qual tem me deixado muito feliz.
 
 A META É IMPACTAR O MUNDO !!!
 <!--
