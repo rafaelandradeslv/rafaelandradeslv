@@ -2,13 +2,17 @@
 
 Seja muito bem vindo ao meu github de estudos e futuros projetos.
 
-Estudo Ciência da Computação pela Universidade Estácio de Sá - RJ, e sou apixonado por tecnologia.
+Estudo Ciência da Computação, apixonado por tecnologia.
 
-Também sou aluno da Digital House, cursando Ciência de Dados, procuro aumentar ainda mais os conhecimentos na área de Machine Learning e Estatística.
+Atualmente cursando Ciência de Dados e procuro aumentar ainda mais os conhecimentos na área.
 
-Não poderia deixar de mencionar que programar é muito divertido e não me canso de fazer isso todos os dias, o que antes era apenas um hobby está se tornando uma profissão ao qual tem me deixado muito feliz.
+Não poderia deixar de mencionar que programar é bem divertido e não me canso de fazer isso todos os dias, 
+Porque isso era apenas um hobby está se tornando uma profissão.
 
-A META É IMPACTAR O MUNDO !!!
+
+Projeto em destaque : https://github.com/rafaelandradeslv/Cadastro-de-Clientes
+
+
 <!--
 **rafaelandradeslv/rafaelandradeslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
