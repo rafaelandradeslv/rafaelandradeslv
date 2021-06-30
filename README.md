@@ -2,13 +2,9 @@
 
 Seja muito bem vindo ao meu github de estudos e futuros projetos.
 
-Estudo Ciência da Computação, apixonado por tecnologia.
+Estudo Ciência da Computação e sou apixonado por tecnologia.
 
 Atualmente cursando Ciência de Dados e procuro aumentar ainda mais os conhecimentos na área.
-
-Não poderia deixar de mencionar que programar é bem divertido e não me canso de fazer isso todos os dias, 
-Porque isso era apenas um hobby está se tornando uma profissão.
-
 
 Projeto em destaque : https://github.com/rafaelandradeslv/tratando-dados-regex-python
 
