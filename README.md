@@ -1,11 +1,5 @@
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelandradeslv&color=green" alt="rafaelandradeslv" />
-  <a href="https://github.com/rafaelandradeslv/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/rafaelandradeslv/github-readme-stats?color=green" />
-  </a>
-  <a href="https://github.com/rafaelandradeslv/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rafaelandradeslv/github-readme-stats?color=green" />
-  </a>
   </p>
 
 ## Oi, eu sou o Rafa <img height="40em" width="40em" src="https://c.tenor.com/w1ThhGE3il8AAAAi/goku-db.gif" alt="rafaelandradeslv" />
