@@ -25,6 +25,10 @@
   
   <img align="center" alt="Rafa-Flask" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flask/flask-original-wordmark.svg">
 
+  <img align="center" alt="Rafa-MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original-wordmark.svg">
+ 
+ <img align="center" alt="Rafa-SQLserver" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ 
   <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
